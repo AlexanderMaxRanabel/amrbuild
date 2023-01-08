@@ -1,5 +1,7 @@
 # Welcome to the JDK!
 
+PiJDK is a special build of jdk for a special minecraft hacked client
+
 For build instructions please see the
 [online documentation](https://openjdk.org/groups/build/doc/building.html),
 or either of these files:
